@@ -10,3 +10,7 @@
 	path = moodle/mod/bigbluebuttonbn
 	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
 	branch = v2.3-stable
+[submodule "moodle/blocks/xp"]
+	path = moodle/blocks/xp
+	url = https://github.com/FMCorz/moodle-block_xp.git
+	branch = master
