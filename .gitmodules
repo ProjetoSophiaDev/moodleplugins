@@ -14,3 +14,7 @@
 	path = moodle/blocks/xp
 	url = https://github.com/FMCorz/moodle-block_xp.git
 	branch = master
+[submodule "moodle/blocks/completion_progress"]
+	path = moodle/blocks/completion_progress
+	url = https://github.com/deraadt/moodle-block_completion_progress.git
+	branch = master
