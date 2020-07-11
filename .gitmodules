@@ -1,0 +1,4 @@
+[submodule "moodle/mod/customcert"]
+	path = moodle/mod/customcert
+	url = https://github.com/markn86/moodle-mod_customcert.git
+	branch = MOODLE_38_STABLE
