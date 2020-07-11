@@ -30,3 +30,7 @@
 	path = moodle/mod/studentquiz
 	url = https://github.com/frankkoch/moodle-mod_studentquiz.git
 	branch = master
+[submodule "moodle/report/benchmark"]
+	path = moodle/report/benchmark
+	url = https://github.com/mikasmart/moodle-report_benchmark.git
+	branch = master
