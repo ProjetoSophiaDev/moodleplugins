@@ -22,3 +22,7 @@
 	path = moodle/mod/choicegroup
 	url = https://github.com/ndunand/moodle-mod_choicegroup.git
 	branch = master
+[submodule "moodle/lib/editor/atto/plugins/fullscreen"]
+	path = moodle/lib/editor/atto/plugins/fullscreen
+	url = https://github.com/dthies/moodle-atto_fullscreen.git
+	branch = master
