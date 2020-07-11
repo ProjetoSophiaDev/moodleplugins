@@ -42,3 +42,7 @@
 	path = moodle/theme/academi
 	url = https://github.com/ProjetoSophiaDev/academi.git
 	branch = master
+[submodule "moodle/theme/klass"]
+	path = moodle/theme/klass
+	url = https://github.com/ProjetoSophiaDev/klass.git
+	branch = master
