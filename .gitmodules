@@ -18,3 +18,7 @@
 	path = moodle/blocks/completion_progress
 	url = https://github.com/deraadt/moodle-block_completion_progress.git
 	branch = master
+[submodule "moodle/mod/choicegroup"]
+	path = moodle/mod/choicegroup
+	url = https://github.com/ndunand/moodle-mod_choicegroup.git
+	branch = master
