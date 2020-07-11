@@ -38,3 +38,7 @@
 	path = moodle/theme/eguru
 	url = https://github.com/lmsace/eguru.git
 	branch = v3.8
+[submodule "moodle/theme/academi"]
+	path = moodle/theme/academi
+	url = https://github.com/ProjetoSophiaDev/academi.git
+	branch = master
