@@ -70,6 +70,12 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 git submodule add -b master https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
 
+- https://github.com/h5p/h5p-moodle-plugin
+```bash
+git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
+cd mod/hvp
+git submodule update --init
+```
 
 
 ## Themes List
