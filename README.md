@@ -76,6 +76,11 @@ git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
 cd mod/hvp
 git submodule update --init
 ```
+- https://github.com/dasistwas/moodle-mod_booking
+
+```bash
+git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
+```
 
 
 ## Themes List
