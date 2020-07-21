@@ -81,7 +81,14 @@ git submodule update --init
 ```bash
 git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
 ```
-
+- https://github.com/davosmith/moodle-checklist
+```bash
+git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
+```
+- https://github.com/bostelm/moodle-mod_scheduler
+```bash
+ git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
+```
 
 ## Themes List
 
