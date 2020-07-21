@@ -50,3 +50,7 @@
 	path = moodle/admin/tool/migratehvp2h5p
 	url = https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git
 	branch = master
+[submodule "moodle/mod/hvp"]
+	path = moodle/mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
