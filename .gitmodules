@@ -34,10 +34,6 @@
 	path = moodle/report/benchmark
 	url = https://github.com/mikasmart/moodle-report_benchmark.git
 	branch = master
-[submodule "moodle/theme/eguru"]
-	path = moodle/theme/eguru
-	url = https://github.com/lmsace/eguru.git
-	branch = v3.8
 [submodule "moodle/theme/academi"]
 	path = moodle/theme/academi
 	url = https://github.com/ProjetoSophiaDev/academi.git
