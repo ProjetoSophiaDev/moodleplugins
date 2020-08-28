@@ -90,6 +90,11 @@ git submodule add -b master https://github.com/davosmith/moodle-checklist.git mo
  git submodule add -b master https://github.com/bostelm/moodle-mod_scheduler.git mod/scheduler
 ```
 
+- https://github.com/bdaloukas/moodle-mod_game
+```bash
+ git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
+```
+
 ## Themes List
 
 
