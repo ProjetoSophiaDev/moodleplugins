@@ -113,6 +113,11 @@ git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_bloc
 git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
 
+- https://github.com/academic-moodle-cooperation/moodle-mod_publication
+```bash
+git submodule add -b MOODLE_39_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+```
+
 
 ## Themes List
 
