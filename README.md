@@ -103,6 +103,16 @@ git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.g
 ```bash
 git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
 ```
+- https://moodle.org/plugins/block_dedication
+```bash
+git submodule add -b MOODLE_30_STABLE https://bitbucket.org/ciceidev/moodle_block_dedication.git blocks/dedication
+```
+
+- https://github.com/mudrd8mz/moodle-mod_subcourse
+```bash
+git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
+```
+
 
 ## Themes List
 
