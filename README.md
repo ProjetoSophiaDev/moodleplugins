@@ -95,6 +95,15 @@ git submodule add -b master https://github.com/davosmith/moodle-checklist.git mo
  git submodule add -b MOODLE_20_STABLE https://github.com/bdaloukas/moodle-mod_game.git mod/game
 ```
 
+- https://github.com/moodleuulm/moodle-local_sandbox
+```bash
+git submodule add -b master https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+```
+- https://github.com/jleyva/moodle-block_configurablereports
+```bash
+git submodule add -b MOODLE_36_STABLE https://github.com/jleyva/moodle-block_configurablereports.git blocks/configurable_reports
+```
+
 ## Themes List
 
 
