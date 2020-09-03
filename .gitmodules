@@ -82,3 +82,7 @@
 	path = moodle/blocks/dedication
 	url = https://bitbucket.org/ciceidev/moodle_block_dedication.git
 	branch = MOODLE_30_STABLE
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = master
