@@ -50,10 +50,6 @@
 	path = moodle/mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin.git
 	branch = stable
-[submodule "moodle/mod/booking"]
-	path = moodle/mod/booking
-	url = https://github.com/dasistwas/moodle-mod_booking.git
-	branch = master
 [submodule "moodle/mod/checklist"]
 	path = moodle/mod/checklist
 	url = https://github.com/davosmith/moodle-checklist.git
