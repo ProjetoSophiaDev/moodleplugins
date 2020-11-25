@@ -90,3 +90,7 @@
 	path = moodle/theme/moove
 	url = https://github.com/willianmano/moodle-theme_moove.git
 	branch = master
+[submodule "moodle/availability/condition/relativedate"]
+	path = moodle/availability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = main
