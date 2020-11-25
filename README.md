@@ -115,7 +115,7 @@ git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git
 
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
-git submodule add -b MOODLE_39_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
+git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
 
 - https://moodle.org/plugins/theme_moove
@@ -147,6 +147,13 @@ git submodule add -b master https://github.com/ProjetoSophiaDev/klass.git theme/
 ```bash
 git submodule add -b master https://github.com/ProjetoSophiaDev/eguru.git theme/eguru
 ```
+
+- https://github.com/willianmano/moodle-theme_moove
+```bash
+git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
+```
+
+
 ## How to remove a submodule
 ```bash
 git submodule deinit <path_to_submodule>
@@ -157,10 +164,7 @@ rm -rf .git/modules/<path_to_submodule>
 
 ## Removed
 
-- https://github.com/willianmano/moodle-theme_moove
-```bash
-git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
-```
+
 
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
