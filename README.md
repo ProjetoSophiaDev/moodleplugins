@@ -118,8 +118,13 @@ git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git
 git submodule add -b MOODLE_39_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
 ```
 
+- https://moodle.org/plugins/theme_moove
+```bash
+git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
+```
 
 ## Themes List
+
 
 
 - https://github.com/lmsace/academi 
