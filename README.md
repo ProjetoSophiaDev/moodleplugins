@@ -123,6 +123,11 @@ git submodule add -b MOODLE_39_STABLE https://github.com/academic-moodle-coopera
 git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
 ```
 
+- https://moodle.org/plugins/availability_relativedate
+```bash
+git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
+```
+
 ## Themes List
 
 
