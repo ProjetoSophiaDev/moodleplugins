@@ -82,10 +82,6 @@
 	path = moodle/mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
 	branch = master
-[submodule "moodle/mod/publication"]
-	path = moodle/mod/publication
-	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
-	branch = MOODLE_39_STABLE
 [submodule "moodle/theme/moove"]
 	path = moodle/theme/moove
 	url = https://github.com/willianmano/moodle-theme_moove.git
