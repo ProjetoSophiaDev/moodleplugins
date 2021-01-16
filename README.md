@@ -130,29 +130,11 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 
 ## Themes List
 
-
-
-- https://github.com/lmsace/academi 
-```bash
-git submodule add -b master https://github.com/ProjetoSophiaDev/academi.git theme/academi
-```
-- https://github.com/lmsace/klass
-
-```bash
-git submodule add -b master https://github.com/ProjetoSophiaDev/klass.git theme/klass
-```
-
 - https://github.com/lmsace/eguru
 
 ```bash
 git submodule add -b master https://github.com/ProjetoSophiaDev/eguru.git theme/eguru
 ```
-
-- https://github.com/willianmano/moodle-theme_moove
-```bash
-git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
-```
-
 
 ## How to remove a submodule
 ```bash
@@ -164,7 +146,19 @@ rm -rf .git/modules/<path_to_submodule>
 
 ## Removed
 
+- https://github.com/lmsace/academi 
+```bash
+git submodule add -b master https://github.com/ProjetoSophiaDev/academi.git theme/academi
+```
+- https://github.com/lmsace/klass
 
+```bash
+git submodule add -b master https://github.com/ProjetoSophiaDev/klass.git theme/klass
+```
+- https://github.com/willianmano/moodle-theme_moove
+```bash
+git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
+```
 
 - https://gitlab.com/jezhops/moodle-theme_adaptable
 ```bash
