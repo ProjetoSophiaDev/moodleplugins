@@ -76,11 +76,7 @@ git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
 cd mod/hvp
 git submodule update --init
 ```
-- https://github.com/dasistwas/moodle-mod_booking
 
-```bash
-git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
-```
 - https://github.com/davosmith/moodle-checklist
 ```bash
 git submodule add -b master https://github.com/davosmith/moodle-checklist.git mod/checklist
@@ -116,11 +112,6 @@ git submodule add -b master https://github.com/mudrd8mz/moodle-mod_subcourse.git
 - https://github.com/academic-moodle-cooperation/moodle-mod_publication
 ```bash
 git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooperation/moodle-mod_publication.git mod/publication
-```
-
-- https://moodle.org/plugins/theme_moove
-```bash
-git submodule add -b master https://github.com/willianmano/moodle-theme_moove.git theme/moove
 ```
 
 - https://moodle.org/plugins/availability_relativedate
@@ -181,5 +172,9 @@ git submodule add -b master https://github.com/michael-milette/moodle-local_mail
 git submodule add -b MOODLE_38_STABLE https://github.com/trema-tech/moodle-theme_trema.git theme/trema
 ```
 
+- https://github.com/dasistwas/moodle-mod_booking
 
+```bash
+git submodule add -b master https://github.com/dasistwas/moodle-mod_booking.git  mod/booking
+```
 
