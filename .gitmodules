@@ -70,10 +70,6 @@
 	path = moodle/mod/subcourse
 	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
 	branch = master
-[submodule "moodle/theme/moove"]
-	path = moodle/theme/moove
-	url = https://github.com/willianmano/moodle-theme_moove.git
-	branch = master
 [submodule "moodle/availability/condition/relativedate"]
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/ewallah/moodle-availability_relativedate.git
