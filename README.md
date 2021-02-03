@@ -123,6 +123,14 @@ git submodule add -b main https://github.com/ewallah/moodle-availability_relativ
 ```bash
 git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
+- https://github.com/brandaorodrigo/moodle-format_buttons
+```bash
+git submodule add -b master https://github.com/brandaorodrigo/moodle-format_buttons.git course/format/buttons
+```
+- https://github.com/cellule-tice/moodle-format_collapsibletopics
+```bash
+git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
+```
 
 ## Themes List
 
