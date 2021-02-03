@@ -86,3 +86,7 @@
 	path = moodle/course/format/tiles
 	url = https://bitbucket.org/dw8/moodle-format_tiles.git
 	branch = master
+[submodule "moodle/course/format/buttons"]
+	path = moodle/course/format/buttons
+	url = https://github.com/brandaorodrigo/moodle-format_buttons.git
+	branch = master
