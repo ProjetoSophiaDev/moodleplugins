@@ -90,3 +90,7 @@
 	path = moodle/course/format/buttons
 	url = https://github.com/brandaorodrigo/moodle-format_buttons.git
 	branch = master
+[submodule "moodle/course/format/collapsibletopics"]
+	path = moodle/course/format/collapsibletopics
+	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
+	branch = master
