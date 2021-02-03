@@ -119,6 +119,11 @@ git submodule add -b MOODLE_310_STABLE https://github.com/academic-moodle-cooper
 git submodule add -b main https://github.com/ewallah/moodle-availability_relativedate.git availability/condition/relativedate
 ```
 
+- https://bitbucket.org/dw8/moodle-format_tiles
+```bash
+git submodule add -b master https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+```
+
 ## Themes List
 
 - https://github.com/lmsace/eguru
