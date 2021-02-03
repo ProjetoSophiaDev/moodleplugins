@@ -82,3 +82,7 @@
 	path = moodle/mod/customcert
 	url = https://github.com/markn86/moodle-mod_customcert.git
 	branch = MOODLE_310_STABLE
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = master
