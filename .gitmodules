@@ -94,3 +94,7 @@
 	path = moodle/course/format/collapsibletopics
 	url = https://github.com/cellule-tice/moodle-format_collapsibletopics.git
 	branch = master
+[submodule "moodle/mod/googlemeet"]
+	path = moodle/mod/googlemeet
+	url = https://github.com/ronefel/moodle-mod_googlemeet.git
+	branch = master
