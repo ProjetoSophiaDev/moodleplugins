@@ -142,7 +142,7 @@ git submodule add -b master https://github.com/ronefel/moodle-mod_googlemeet.git
 - https://github.com/lmsace/eguru
 
 ```bash
-git submodule add -b master https://github.com/ProjetoSophiaDev/eguru.git theme/eguru
+git submodule add -b v310 https://github.com/ProjetoSophiaDev/eguru.git theme/eguru
 ```
 
 ## How to remove a submodule
