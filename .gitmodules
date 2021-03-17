@@ -94,3 +94,7 @@
 	path = moodle/mod/googlemeet
 	url = https://github.com/ronefel/moodle-mod_googlemeet.git
 	branch = master
+[submodule "moodle/theme/eguru"]
+	path = moodle/theme/eguru
+	url = https://github.com/ProjetoSophiaDev/eguru.git
+	branch = v310
