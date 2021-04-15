@@ -17,6 +17,12 @@ git submodule update --remote
 $CFG->disableupdateautodeploy = true;
 // Disabling update notifications
 $CFG->disableupdatenotifications = true;
+
+// Some administration options allow setting the path to executable files. This can
+// potentially cause a security risk. Set this option to true to disable editing
+// those config settings via the web. They will need to be set explicitly in the
+// config.php file
+$CFG->preventexecpath = true;
 ```
 ## References
 https://www.vogella.com/tutorials/GitSubmodules/article.html
