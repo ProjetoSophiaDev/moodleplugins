@@ -94,3 +94,7 @@
 	path = moodle/theme/eguru
 	url = https://github.com/ProjetoSophiaDev/eguru.git
 	branch = v310
+[submodule "moodle/mod/hvp"]
+	path = moodle/mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
