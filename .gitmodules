@@ -94,3 +94,7 @@
 	path = moodle/mod/bigbluebuttonbn
 	url = https://github.com/blindsidenetworks/moodle-mod_bigbluebuttonbn.git
 	branch = v2.4-stable
+[submodule "moodle/mod/hvp"]
+	path = moodle/mod/hvp
+	url = https://github.com/h5p/h5p-moodle-plugin.git
+	branch = stable
