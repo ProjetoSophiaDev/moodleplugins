@@ -37,7 +37,7 @@ cd moodle
 
 - https://github.com/markn86/moodle-mod_customcert
 ```bash
-git submodule add -b MOODLE_38_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
+git submodule add -b MOODLE_311_STABLE https://github.com/markn86/moodle-mod_customcert.git mod/customcert
 ```
 - https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
