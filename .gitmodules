@@ -98,3 +98,7 @@
 	path = moodle/course/format/softcourse
 	url = https://github.com/DigiDago/moodle-format_softcourse.git
 	branch = MOODLE_310_STABLE
+[submodule "moodle/theme/eguru"]
+	path = moodle/theme/eguru
+	url = https://github.com/ProjetoSophiaDev/eguru.git
+	branch = v310
