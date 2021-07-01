@@ -138,11 +138,6 @@ git submodule add -b master https://github.com/brandaorodrigo/moodle-format_butt
 git submodule add -b master https://github.com/cellule-tice/moodle-format_collapsibletopics.git course/format/collapsibletopics
 ```
 
-- https://github.com/ronefel/moodle-mod_googlemeet
-```bash
-git submodule add -b master https://github.com/ronefel/moodle-mod_googlemeet.git mod/googlemeet
-```
-
 ## Themes List
 
 - https://github.com/lmsace/eguru
