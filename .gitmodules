@@ -98,3 +98,7 @@
 	path = moodle/theme/eguru
 	url = https://github.com/ProjetoSophiaDev/eguru.git
 	branch = v310
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = main
